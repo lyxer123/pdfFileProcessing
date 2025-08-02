@@ -1,0 +1,17 @@
+[
+  "std_type_GB",
+  "std_type_DB",
+  "std_type_NB",
+  "std_type_T",
+  "std_type_QGDW",
+  "has_standard_code",
+  "has_year",
+  "ev_related",
+  "standard_related",
+  "text_length_norm",
+  "std_keywords_norm",
+  "ev_keywords_norm",
+  "exclude_keywords_norm",
+  "std_sections_norm",
+  "ev_sections_norm"
+]

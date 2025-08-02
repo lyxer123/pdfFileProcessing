@@ -1,0 +1,24 @@
+{
+  "accuracy": 0.8888888888888888,
+  "classification_report": "              precision    recall  f1-score   support\n\n         非标准       0.89      1.00      0.94         8\n          标准       0.00      0.00      0.00         1\n\n    accuracy                           0.89         9\n   macro avg       0.44      0.50      0.47         9\nweighted avg       0.79      0.89      0.84         9\n",
+  "feature_importance": {
+    "std_type_GB": 0.003911342145849001,
+    "std_type_DB": 0.30337396072063366,
+    "std_type_NB": 0.0,
+    "std_type_T": 0.0,
+    "std_type_QGDW": 0.0,
+    "has_standard_code": 0.2893401421528721,
+    "has_year": 0.026432145991673074,
+    "ev_related": 0.0013243268081978374,
+    "standard_related": 0.02723495577469401,
+    "text_length_norm": 0.04593177121385658,
+    "std_keywords_norm": 0.10635882561781711,
+    "ev_keywords_norm": 0.06949164258759594,
+    "exclude_keywords_norm": 0.05197962655660291,
+    "std_sections_norm": 0.03443754723761531,
+    "ev_sections_norm": 0.04018371319259247
+  },
+  "n_samples": 45,
+  "n_features": 15,
+  "test_size": 0.2
+}
